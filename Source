@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--
+  -Name: Killian Gentle
+  -UnityID: kgentle
+  -Date: 11/17/2024
+  -Assignment: Sources for E102
+  -Description: Sources for research project
+-->
+<html lang="en-US">
+
+    <head>
+        <meta charset="UTF-8" />
+        <title>Sources</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+    
+    <body>
+    <p><strong>InFUSEd: International Fusion Education initiative.</strong>
+      <a href=https://www.iter.org/public/infused-international-fusion-education-initiative target="blank">InFUSEd</a></p>    
+
+    <br />
+
+    <p><strong>North Carolina’s Electric Cooperatives. <i>Bright Ideas Education Grants.</i></strong>
+      <a href=https://www.ncelectriccooperatives.com/community/bright-ideas/ target="blank">NCElectricCooperatives</a></p>
+
+    <br />
+
+    <p><strong>NEI. <i>Voices For Nuclear Energy.</i></strong>
+      <a href=https://www.nei.org/voices-for-nuclear-energy target="blank">NEI</a></p>
+
+      <br />
+
+    <p><strong>Regen Power. "Can We Power a Big City with Solar 24/7?" Regen Power, Regen Power,</strong>
+      <a href=https://regenpower.com/can-we-power-a-big-city-with-solar-24-7/ target="blank">Regen Power</a></p>
+
+    <br />
+
+    <p><strong>Amusan, J., and E. Otokunefor. "The Effect of Cloud on the Output Performance of a Solar Module."</strong> 
+    <i>International Journal of Engineering Science</i> 19665 (2019).</p>
+
+    <br />
+
+    <p><strong>World Health Organization. (2021, October 29). Urban health. World Health Organization</strong>
+      <a href=https://www.who.int/news-room/fact-sheets/detail/urban-health target="blank">World Health Organization</a></p>
+
+    <br />
+
+    <p><strong>Yamamoto, Daisaku. “Cursed forever? Exploring socio-economic effects of nuclear power plant closures across nine communities in the United States.”</strong> 
+      Energy Research & Social Science, vol. 92, 2022. ScienceDirect,
+      <a href=https://www.sciencedirect.com/science/article/pii/S2214629622002699. target="blank">ScienceDirect</a></p>
+
+    <br />
+
+    <p><strong>Gilbert, Alexander Q, and Morgan D Bazilian. “Can Distributed Nuclear Power Address Energy Resilience and Energy Poverty?.”</strong> Joule vol. 4,9 (2020): 1839-1843. doi:10.1016/j.joule.2020.08.005
+    </p>
+    </body>
+</html>
